@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Customer Segmentation
 
 A local full-stack application for uploading retail customer CSVs, exploring and clustering customers with K-Means, inspecting deterministic marketing suggestions, predicting a new customer's segment, and exporting run results. The included dataset is synthetic and intended only for demonstration.
@@ -51,3 +52,6 @@ npm run build
 ```
 
 See [TESTING.md](TESTING.md) for coverage and limitations.
+=======
+# retail-customer-segmentation
+>>>>>>> origin/main
